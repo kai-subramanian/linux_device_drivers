@@ -1,0 +1,1 @@
+cmd_/home/kailash/linux_device_drivers/device_nr/Module.symvers := sed 's/\.ko$$/\.o/' /home/kailash/linux_device_drivers/device_nr/modules.order | scripts/mod/modpost -m -a  -o /home/kailash/linux_device_drivers/device_nr/Module.symvers -e -i Module.symvers   -T -

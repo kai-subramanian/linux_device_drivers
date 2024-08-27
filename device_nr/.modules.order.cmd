@@ -1,0 +1,1 @@
+cmd_/home/kailash/linux_device_drivers/device_nr/modules.order := {   echo /home/kailash/linux_device_drivers/device_nr/deviceModule.ko; :; } | awk '!x[$$0]++' - > /home/kailash/linux_device_drivers/device_nr/modules.order

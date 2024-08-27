@@ -1,0 +1,1 @@
+cmd_/home/kailash/linux_device_drivers/device_nr/deviceModule.mod := { echo  /home/kailash/linux_device_drivers/device_nr/deviceModule.o;  echo; } > /home/kailash/linux_device_drivers/device_nr/deviceModule.mod

@@ -1,0 +1,1 @@
+cmd_/home/kailash/linux_device_drivers/device_nr/deviceModule.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/kailash/linux_device_drivers/device_nr/deviceModule.ko /home/kailash/linux_device_drivers/device_nr/deviceModule.o /home/kailash/linux_device_drivers/device_nr/deviceModule.mod.o;  true
